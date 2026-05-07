@@ -363,5 +363,3 @@ If given more time, future improvements would include:
 
 Ayush Verma
 
-MS Computer Science  
-University of Texas at Arlington
